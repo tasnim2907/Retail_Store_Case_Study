@@ -1,1 +1,1 @@
-# data-analytics-portfolio
+# Retail_Store_Case_Study
